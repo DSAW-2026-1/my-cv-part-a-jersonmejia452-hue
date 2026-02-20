@@ -3,7 +3,7 @@
 # Mi CV - Parte A
 
 🔗 Ver sitio desplegado en GitHub Pages:
-https://jerssonmejia452-hue.github.io/my-cv-part-a-jersonmejia452-hue/
+https://dsaw-2026-1.github.io/my-cv-part-a-jersonmejia452-hue/
 
 ¡Hola a todos!
 
